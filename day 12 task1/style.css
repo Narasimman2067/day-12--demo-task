@@ -1,3 +1,13 @@
+body{
+    background-image: repeating-radial-gradient(orange 40%,whitesmoke 20%,green 40%);
+}
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+
 .circle{
     height: 20px;
     width: 20px;
